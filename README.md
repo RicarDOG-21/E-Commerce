@@ -10,31 +10,31 @@ Este proyecto está basado en la plantilla de administración de [bodegainformat
 ```
 git clone https://github.com/RicarDOG-21/Proyecto_SII-Completo-.git
 ```
- ###2do Paso
+### 2do Paso
 - Debes copiar la carpeta **Proyecto_SII(Completo)**
 a la htdocs, ubicada en la carpeta xampp
 
-###3er Paso
+### 3er Paso
 - Importar la base de datos **cara_db.sql** al
 phpmyadmin
 
-##Vista Previa
+## Vista Previa
 
-###Inicio
+### Inicio
 ![](https://scontent.fccs3-2.fna.fbcdn.net/v/t39.30808-6/293775155_199391545878991_3455360665712246412_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=CEik9QYpzzcAX_4H5dr&_nc_ht=scontent.fccs3-2.fna&oh=00_AT9u9jJbbrUDG4kSYB8DEHquI9HnOphXHuMErn428wl_SA&oe=62D490B2)
 
-###Tienda
+### Tienda
 ![](https://scontent.fccs3-1.fna.fbcdn.net/v/t39.30808-6/293217971_199392655878880_2357382182346983109_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=WQOB1FB2pGoAX-G_0BG&_nc_ht=scontent.fccs3-1.fna&oh=00_AT8UNEWI1THLRO_STL9oPeFyv80q1hB3XxlmfJwSira6bw&oe=62D42756)
 
-###Ingresar
+### Ingresar
 ![](https://scontent.fccs3-2.fna.fbcdn.net/v/t39.30808-6/293023342_199393499212129_6879585416806262383_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=DsnBAJZFU-wAX_AMyDO&_nc_ht=scontent.fccs3-2.fna&oh=00_AT8zqlS8LbSNjTTeQ60xoTGqt5BI-3fnWYGlLLcMHjb_xQ&oe=62D4E952)
 
-##Contribución
+## Contribución
 1. Crea un Fork del repositorio
 2. Clonar en tu maquina mediante git clone https://github.com/RicarDOG-21/Proyecto_SII-Completo-.git
 3. Crear una nueva rama
 4. Realiza tus cambios
 5. Manda tu pull request
 
-##Licencia
+## Licencia
  MIT
