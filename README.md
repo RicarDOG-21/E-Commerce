@@ -3,8 +3,9 @@
 # Cara | Tienda online
 
 Este proyecto está basado en la plantilla de administración de [bodegainformatica](https://github.com/Logicainformatica18/bodegainformatica#bodega-inform%C3%A1tica "bodegainformatica")
-##Instalación
- ###1er Paso
+## Instalación
+
+### 1er Paso
 **Forma 1** Dar clic en Code y luego en *Donwload Zip*
 **Forma 2** Crear una carpeta, ingresar a git bash y ejecutar
 ```
