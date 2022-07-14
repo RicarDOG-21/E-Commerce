@@ -6,8 +6,11 @@ Este proyecto está basado en la plantilla de administración de [bodegainformat
 ## Instalación
 
 ### 1er Paso
+
 **Forma 1** Dar clic en Code y luego en *Donwload Zip*
+
 **Forma 2** Crear una carpeta, ingresar a git bash y ejecutar
+
 ```
 git clone https://github.com/RicarDOG-21/Proyecto_SII-Completo-.git
 ```
